@@ -1,2 +1,1 @@
-Code from the Futurelearn Course 
-Introduction to Erlang: Functional Programming
+Exercise files from: Introduction to Erlang: Functional Programming (FutureLearn)
